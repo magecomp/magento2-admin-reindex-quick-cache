@@ -1,0 +1,19 @@
+<div class="maindiv">
+    <?php if ($block->getIndexing()) { ?>
+        <div class="indexbutton buttonrequried">
+
+            <form action="<?= $block->escapeUrl($block->getFormsUrl()) ?>" method="post">
+                <input name="form_key" type="hidden" value="<?php echo $block->getFormKey(); ?>">
+                <button class="action-primary buttonproprty">Index Management</button>
+            </form>
+        </div>
+    <?php }
+    if ($block->getCleaning()) { ?>
+        <div class="flushbutton buttonrequried">
+            <form action="<?= $block->escapeUrl($block->getCleanUrl()) ?>" method="post">
+                <input name="form_key" type="hidden" value="<?php echo $block->getFormKey(); ?>">
+                <button class="action-primary buttonproprty">Flush Magento Cache</button>
+            </form>
+        </div>
+    <?php } ?>
+</div>
