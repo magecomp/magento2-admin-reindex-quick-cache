@@ -2,9 +2,10 @@
 
 ![a](https://github.com/magecomp/magento2-admin-reindex-quick-cache/assets/8856845/8a124c12-611b-4249-9b4c-8a2d6b4c7b43)
 
+The Admin Reindex & Quick Cache Extension for Magento 2 empowers administrators to swiftly reindex and clear cache directly from any page within the admin dashboard, eliminating the need to execute commands in the console.
+
 <a href="https://magecomp.com/magento-2-admin-reindex-and-quick-cache.html" target="_blank"><img width="150" height="46" src="https://magecomp.com/media/button.webp"></a>
 
-The Admin Reindex & Quick Cache Extension for Magento 2 empowers administrators to swiftly reindex and clear cache directly from any page within the admin dashboard, eliminating the need to execute commands in the console.
 
 # Contribute & Explore Your Coding Skills
 We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Admin Reindex & Quick Cache. Be ready to hit your keyboard keys & get listed today!
